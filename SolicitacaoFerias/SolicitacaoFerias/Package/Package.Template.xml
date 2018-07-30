@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="dd2444b2-461d-46bb-9dff-8a4e7fb6e3ef" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="SolicitacaoFerias.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SolicitacaoFerias, Version=1.0.0.0, Culture=neutral, PublicKeyToken=63ed760426c22d73" Namespace="SolicitacaoFerias.VisualWebPart1" Safe="True" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\SolicitacaoFerias\VisualWebPart1\VisualWebPart1UserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SolicitacaoFerias_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,5 @@
+E:\Desenvolvimentos\Ferias\SolicitacaoFerias\SolicitacaoFerias\bin\Debug\SolicitacaoFerias.dll
+E:\Desenvolvimentos\Ferias\SolicitacaoFerias\SolicitacaoFerias\bin\Debug\SolicitacaoFerias.pdb
+E:\Desenvolvimentos\Ferias\SolicitacaoFerias\SolicitacaoFerias\obj\Debug\SolicitacaoFerias.dll
+E:\Desenvolvimentos\Ferias\SolicitacaoFerias\SolicitacaoFerias\obj\Debug\SolicitacaoFerias.pdb
+E:\Desenvolvimentos\Ferias\SolicitacaoFerias\SolicitacaoFerias\obj\Debug\SolicitacaoFerias.csprojResolveAssemblyReference.cache

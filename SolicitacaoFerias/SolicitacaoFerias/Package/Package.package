@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="dd2444b2-461d-46bb-9dff-8a4e7fb6e3ef" solutionId="dd2444b2-461d-46bb-9dff-8a4e7fb6e3ef" resetWebServer="false" sharePointProductVersion="15.0" name="SolicitacaoFerias" isDesignerEnabled="false" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="6961111e-bf81-4744-b76f-7760326e936b" />
+  </features>
+</package>
